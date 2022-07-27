@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian Torres</h1>
+<h1 align="center">Hi 👋, I'm Sebastián Torres</h1>
 <h3 align="center">A chemical engineer student from Bogotá</h3>
 
 <h3 align="left">Connect with me:</h3>
